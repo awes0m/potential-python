@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f3d4;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f5e6ca;
+  border-width: thick;
+  height: 0;
+  width: 4%
+}
+p{
+  color: #343f56;
+  font-family: cursive;
+}
+h3{
+  color: #f54748
+}
+h2{
+  color: #fb9300
+}
+h1{
+  color: #00b8a9
+}
+.emoji{
+  size:20px;
+}
